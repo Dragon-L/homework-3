@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="oo.GameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-11-30T14:15:42" hostname="lgl" time="0.003">
+  <properties/>
+  <testcase name="should_crite_when_use_weapon_with_crite" classname="oo.GameTest" time="0.003"/>
+  <system-out><![CDATA[战士张三用利剑攻击了普通人李四，张三发动了全力一击，李四受到了60点伤害，李四剩余生命：-10
+李四被打败了]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
